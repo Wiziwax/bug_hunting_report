@@ -1,0 +1,14 @@
+[2025-09-14 20:28:58] 1inch.dev: 1 new subdomains
+[2025-09-14 20:34:33] 1inch.io: 1 new subdomains
+[2025-09-14 20:41:52] ascendex.com: 2 new subdomains
+[2025-09-14 20:47:55] asymetrix.io: 2 new subdomains
+[2025-09-14 20:56:04] bingx.com: 3 new subdomains
+[2025-09-14 21:02:19] bitcastle.io: 1 new subdomains
+[2025-09-14 21:07:38] bitdelta.com: 1 new subdomains
+[2025-09-14 21:12:59] bitexen.com: 1 new subdomains
+[2025-09-14 21:27:56] chainstack.com: 2 new subdomains
+[2025-09-14 21:53:19] hacken.io: 3 new subdomains
+[2025-09-14 22:06:27] latoken.com: 18 new subdomains
+[2025-09-14 22:14:23] machinefi.com: 2 new subdomains
+[2025-09-14 22:38:11] toobit.com: 1 new subdomains
+[2025-09-14 22:48:55] white.market: 1 new subdomains
